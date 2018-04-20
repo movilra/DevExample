@@ -1,6 +1,6 @@
 var hola="hola"
 function decirHola(){
-    console.log(hola)
+    console.log("hola   ")
 }
 
 /*git commit
@@ -11,8 +11,9 @@ leave building
 
 -----
 git init 
-git add.
+git add .
 git status
+
 git pushgit add.
 git commit -m "comentarios"
 git push */
